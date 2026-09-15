@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1850" height="1158" viewBox="0 0 1850 1158" role="img" aria-labelledby="network-title network-desc">
+<title id="network-title">Complete NAH manuscript claim network</title>
+<desc id="network-desc">Every registered manuscript claim, colored by claim type, with explicitly registered claim-to-claim relationships.</desc>
+<metadata>{"claim_count": 9, "relation_count": 7}</metadata>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5"
+          markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#64748b"/>
+  </marker>
+</defs>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="180" y="42" font-family="system-ui, sans-serif" font-size="26" font-weight="600" fill="#111827">Complete claim network</text>
+<text x="180" y="70" font-family="system-ui, sans-serif" font-size="15" fill="#475569">All 9 registered claims and 7 registered relations are shown; color encodes claim type.</text>
+<text x="375.0" y="127" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#111827">Foundations and local asymptotics</text>
+<text x="925.0" y="127" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#111827">Multi-tube transport</text>
+<text x="1475.0" y="127" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#111827">Symmetry and physics interface</text>
+<path d="M 180 236.0 C 167 236.0, 163 236.0, 150 236.0 L 150 712.0 C 163 712.0, 167 712.0, 180 712.0" fill="none" stroke="#64748b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"><title>MANUSCRIPT-EXPLICIT: The filtered extension in C004 is part of the tame associated-vector-bundle framework fixed in C001.</title></path>
+<path d="M 180 474.0 C 167 474.0, 135 474.0, 122 474.0 L 122 950.0 C 135 950.0, 167 950.0, 180 950.0" fill="none" stroke="#64748b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"><title>MANUSCRIPT-EXPLICIT: The logarithmic exponent and monodromy convention fixed in C002 is used in the flat-section formula of C003.</title></path>
+<path d="M 570 474.0 C 650.0 474.0, 650.0 236.0, 730 236.0" fill="none" stroke="#64748b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"><title>MANUSCRIPT-EXPLICIT: C005 uses the distinct local logarithmic exponents defined tube by tube from the local model.</title></path>
+<path d="M 375.0 802 C 375.0 826.36, 375.0 835.64, 375.0 860" fill="none" stroke="#64748b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 6" marker-end="url(#arrow)"><title>AI-PROPOSED: The filtered/parabolic data in C004 qualifies how the general tame asymptotic statement in C003 is interpreted.</title></path>
+<path d="M 570 950.0 C 925.0 950.0, 925.0 712.0, 1280 712.0" fill="none" stroke="#64748b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 6" marker-end="url(#arrow)"><title>AI-PROPOSED: The power-law and logarithmic behavior in C003 offers a possible motivation for investigating finer monodromy sensitivity of physical observables in C009.</title></path>
+<path d="M 1475.0 326 C 1475.0 350.36, 1475.0 359.64, 1475.0 384" fill="none" stroke="#64748b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"><title>MANUSCRIPT-EXPLICIT: The centralizer calculated in C007 is the algebra appearing in the compatibility condition of C008.</title></path>
+<path d="M 1475.0 564 C 1475.0 588.36, 1475.0 597.64, 1475.0 622" fill="none" stroke="#64748b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"><title>MANUSCRIPT-EXPLICIT: The independently specified weak gauge algebra constrained in C008 supplies the gauge-sector datum used in the leading cusp estimate discussed in C009.</title></path>
+<g id="NAH-C001"><title>The tame associated vector-bundle correspondence supplies a flat connection up to gauge from fixed Higgs and parabolic data.</title><rect x="180" y="146" width="390" height="180" rx="15" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+<text x="198" y="173" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#111827">NAH-C001</text>
+<text x="552" y="172" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#374151">THEOREM CONSEQUENCE</text>
+<text x="198" y="200" font-family="system-ui, sans-serif" font-size="14" fill="#111827">The tame associated vector-bundle</text>
+<text x="198" y="218" font-family="system-ui, sans-serif" font-size="14" fill="#111827">correspondence supplies a flat connection up to</text>
+<text x="198" y="236" font-family="system-ui, sans-serif" font-size="14" fill="#111827">gauge from fixed Higgs and parabolic data.</text>
+<text x="198" y="266" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">SUPPORTED</text>
+<text x="198" y="282" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Last audit: 2026-09-15</text>
+<text x="198" y="298" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Audited source: source/main.tex (Class_S -</text>
+<text x="198" y="314" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">2026-09-15T131046.747.zip)</text>
+</g>
+<g id="NAH-C002"><title>For nabla=d-R dz/z, the chosen convention gives M=exp(2 pi i R).</title><rect x="180" y="384" width="390" height="180" rx="15" fill="#dcfce7" stroke="#15803d" stroke-width="2"/>
+<text x="198" y="411" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#111827">NAH-C002</text>
+<text x="552" y="410" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#374151">MODEL CALCULATION</text>
+<text x="198" y="438" font-family="system-ui, sans-serif" font-size="14" fill="#111827">For nabla=d-R dz/z, the chosen convention gives</text>
+<text x="198" y="456" font-family="system-ui, sans-serif" font-size="14" fill="#111827">M=exp(2 pi i R).</text>
+<text x="198" y="504" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">SUPPORTED WITH CONVENTION</text>
+<text x="198" y="520" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Last audit: 2026-09-15</text>
+<text x="198" y="536" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Audited source: source/main.tex (Class_S -</text>
+<text x="198" y="552" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">2026-09-15T131046.747.zip)</text>
+</g>
+<g id="NAH-C003"><title>In the logarithmic model, u-to-v transfer has factor q^R=q^alpha exp(e log q); general tame growth requires the cited estimates.</title><rect x="180" y="860" width="390" height="180" rx="15" fill="#dcfce7" stroke="#15803d" stroke-width="2"/>
+<text x="198" y="887" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#111827">NAH-C003</text>
+<text x="552" y="886" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#374151">MODEL CALCULATION</text>
+<text x="198" y="914" font-family="system-ui, sans-serif" font-size="14" fill="#111827">In the logarithmic model, u-to-v transfer has</text>
+<text x="198" y="932" font-family="system-ui, sans-serif" font-size="14" fill="#111827">factor q^R=q^alpha exp(e log q); general tame</text>
+<text x="198" y="950" font-family="system-ui, sans-serif" font-size="14" fill="#111827">growth requires the cited estimates.</text>
+<text x="198" y="980" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">SUPPORTED</text>
+<text x="198" y="996" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Last audit: 2026-09-15</text>
+<text x="198" y="1012" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Audited source: source/main.tex (Class_S -</text>
+<text x="198" y="1028" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">2026-09-15T131046.747.zip)</text>
+</g>
+<g id="NAH-C004"><title>Tame growth is encoded by a filtered/parabolic extension with filtration data beyond a chosen logarithmic exponent.</title><rect x="180" y="622" width="390" height="180" rx="15" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+<text x="198" y="649" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#111827">NAH-C004</text>
+<text x="552" y="648" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#374151">THEOREM CONSEQUENCE</text>
+<text x="198" y="676" font-family="system-ui, sans-serif" font-size="14" fill="#111827">Tame growth is encoded by a filtered/parabolic</text>
+<text x="198" y="694" font-family="system-ui, sans-serif" font-size="14" fill="#111827">extension with filtration data beyond a chosen</text>
+<text x="198" y="712" font-family="system-ui, sans-serif" font-size="14" fill="#111827">logarithmic exponent.</text>
+<text x="198" y="742" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">SUPPORTED</text>
+<text x="198" y="758" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Last audit: 2026-09-15</text>
+<text x="198" y="774" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Audited source: source/main.tex (Class_S -</text>
+<text x="198" y="790" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">2026-09-15T131046.747.zip)</text>
+</g>
+<g id="NAH-C005"><title>Distinct disjoint fiberwise tubes need not obey the intersecting-SNC residue commutation condition.</title><rect x="730" y="146" width="390" height="180" rx="15" fill="#dcfce7" stroke="#15803d" stroke-width="2"/>
+<text x="748" y="173" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#111827">NAH-C005</text>
+<text x="1102" y="172" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#374151">MODEL CALCULATION</text>
+<text x="748" y="200" font-family="system-ui, sans-serif" font-size="14" fill="#111827">Distinct disjoint fiberwise tubes need not obey</text>
+<text x="748" y="218" font-family="system-ui, sans-serif" font-size="14" fill="#111827">the intersecting-SNC residue commutation</text>
+<text x="748" y="236" font-family="system-ui, sans-serif" font-size="14" fill="#111827">condition.</text>
+<text x="748" y="266" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">SUPPORTED</text>
+<text x="748" y="282" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Last audit: 2026-09-15</text>
+<text x="748" y="298" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Audited source: source/main.tex (Class_S -</text>
+<text x="748" y="314" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">2026-09-15T131046.747.zip)</text>
+</g>
+<g id="NAH-C006"><title>Off-tube matching matrices remain regular and invertible.</title><rect x="730" y="384" width="390" height="180" rx="15" fill="#ffedd5" stroke="#c2410c" stroke-width="2"/>
+<text x="748" y="411" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#111827">NAH-C006</text>
+<text x="1102" y="410" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#374151">MODEL ASSUMPTION</text>
+<text x="748" y="438" font-family="system-ui, sans-serif" font-size="14" fill="#111827">Off-tube matching matrices remain regular and</text>
+<text x="748" y="456" font-family="system-ui, sans-serif" font-size="14" fill="#111827">invertible.</text>
+<text x="748" y="504" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">ASSUMPTION EXPLICIT</text>
+<text x="748" y="520" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Last audit: 2026-09-15</text>
+<text x="748" y="536" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Audited source: source/main.tex (Class_S -</text>
+<text x="748" y="552" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">2026-09-15T131046.747.zip)</text>
+</g>
+<g id="NAH-C007"><title>The type-A reductive quotient of the monodromy centralizer has the displayed Jordan-block multiplicity formula.</title><rect x="1280" y="146" width="390" height="180" rx="15" fill="#f3f4f6" stroke="#4b5563" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="1298" y="173" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#111827">NAH-C007</text>
+<text x="1652" y="172" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#374151">STANDARD BACKGROUND</text>
+<text x="1298" y="200" font-family="system-ui, sans-serif" font-size="14" fill="#111827">The type-A reductive quotient of the monodromy</text>
+<text x="1298" y="218" font-family="system-ui, sans-serif" font-size="14" fill="#111827">centralizer has the displayed Jordan-block</text>
+<text x="1298" y="236" font-family="system-ui, sans-serif" font-size="14" fill="#111827">multiplicity formula.</text>
+<text x="1298" y="266" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">OUTSIDE NAH SCOPE</text>
+<text x="1298" y="282" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Last audit: 2026-09-15</text>
+<text x="1298" y="298" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Audited source: source/main.tex (Class_S -</text>
+<text x="1298" y="314" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">2026-09-15T131046.747.zip)</text>
+</g>
+<g id="NAH-C008"><title>h_i subseteq c_i is a compatibility condition for an independently specified weak gauging and does not determine the gauge group.</title><rect x="1280" y="384" width="390" height="180" rx="15" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+<text x="1298" y="411" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#111827">NAH-C008</text>
+<text x="1652" y="410" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#374151">PHYSICAL PROPOSAL</text>
+<text x="1298" y="438" font-family="system-ui, sans-serif" font-size="14" fill="#111827">h_i subseteq c_i is a compatibility condition</text>
+<text x="1298" y="456" font-family="system-ui, sans-serif" font-size="14" fill="#111827">for an independently specified weak gauging and</text>
+<text x="1298" y="474" font-family="system-ui, sans-serif" font-size="14" fill="#111827">does not determine the gauge group.</text>
+<text x="1298" y="504" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">PROPOSAL CLEARLY LABELED</text>
+<text x="1298" y="520" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Last audit: 2026-09-15</text>
+<text x="1298" y="536" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Audited source: source/main.tex (Class_S -</text>
+<text x="1298" y="552" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">2026-09-15T131046.747.zip)</text>
+</g>
+<g id="NAH-C009"><title>Finer monodromy-sensitive observables are proposed for future work; the leading cusp estimate uses independent weak-gauge data.</title><rect x="1280" y="622" width="390" height="180" rx="15" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+<text x="1298" y="649" font-family="system-ui, sans-serif" font-size="17" font-weight="700" fill="#111827">NAH-C009</text>
+<text x="1652" y="648" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#374151">PHYSICAL PROPOSAL</text>
+<text x="1298" y="676" font-family="system-ui, sans-serif" font-size="14" fill="#111827">Finer monodromy-sensitive observables are</text>
+<text x="1298" y="694" font-family="system-ui, sans-serif" font-size="14" fill="#111827">proposed for future work; the leading cusp</text>
+<text x="1298" y="712" font-family="system-ui, sans-serif" font-size="14" fill="#111827">estimate uses independent weak-gauge data.</text>
+<text x="1298" y="742" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">PROPOSAL CLEARLY LABELED</text>
+<text x="1298" y="758" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Last audit: 2026-09-15</text>
+<text x="1298" y="774" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">Audited source: source/main.tex (Class_S -</text>
+<text x="1298" y="790" font-family="system-ui, sans-serif" font-size="11" fill="#4b5563">2026-09-15T131046.747.zip)</text>
+</g>
+<g><rect x="102.025" y="461.0" width="95.95" height="20" rx="7" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/><text x="150" y="475.0" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#475569">framework for</text></g>
+<g><rect x="55.57499999999999" y="699.0" width="132.85000000000002" height="20" rx="7" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/><text x="122" y="713.0" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#475569">convention input to</text></g>
+<g><rect x="546.675" y="333.0" width="206.65" height="20" rx="7" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/><text x="650.0" y="347.0" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#475569">provides local exponent data...</text></g>
+<g><rect x="417.325" y="822.0" width="71.35" height="20" rx="7" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/><text x="453.0" y="836.0" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#475569">qualifies</text></g>
+<g><rect x="837.05" y="809.0" width="175.9" height="20" rx="7" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/><text x="925.0" y="823.0" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#475569">motivates investigation in</text></g>
+<g><rect x="1452.75" y="346.0" width="200.5" height="20" rx="7" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/><text x="1553.0" y="360.0" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#475569">supplies centralizer input for</text></g>
+<g><rect x="1471.2" y="584.0" width="163.60000000000002" height="20" rx="7" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/><text x="1553.0" y="598.0" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#475569">supplies gauge input for</text></g>
+<text x="180" y="1062" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#111827">Claim types</text>
+<rect x="180" y="1067" width="18" height="18" rx="4" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/><text x="207" y="1081" font-family="system-ui, sans-serif" font-size="12" fill="#111827">THEOREM CONSEQUENCE</text>
+<rect x="535" y="1067" width="18" height="18" rx="4" fill="#dcfce7" stroke="#15803d" stroke-width="2"/><text x="562" y="1081" font-family="system-ui, sans-serif" font-size="12" fill="#111827">MODEL CALCULATION</text>
+<rect x="890" y="1067" width="18" height="18" rx="4" fill="#ffedd5" stroke="#c2410c" stroke-width="2"/><text x="917" y="1081" font-family="system-ui, sans-serif" font-size="12" fill="#111827">MODEL ASSUMPTION</text>
+<rect x="180" y="1097" width="18" height="18" rx="4" fill="#f3f4f6" stroke="#4b5563" stroke-width="2"/><text x="207" y="1111" font-family="system-ui, sans-serif" font-size="12" fill="#111827">STANDARD BACKGROUND</text>
+<rect x="535" y="1097" width="18" height="18" rx="4" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/><text x="562" y="1111" font-family="system-ui, sans-serif" font-size="12" fill="#111827">PHYSICAL PROPOSAL</text>
+<rect x="890" y="1097" width="18" height="18" rx="4" fill="#fce7f3" stroke="#be185d" stroke-width="2"/><text x="917" y="1111" font-family="system-ui, sans-serif" font-size="12" fill="#111827">PHYSICAL ANSATZ</text>
+<text x="1670" y="1119" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" fill="#475569">Solid arrows: manuscript-explicit or author-confirmed. Dashed arrows: AI-proposed.</text>
+<text x="1670" y="1138" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" fill="#475569">Node border: red = must correct; amber dashed = should clarify; gray dashed = outside NAH scope.</text>
+</svg>

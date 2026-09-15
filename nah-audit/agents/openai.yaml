@@ -1,0 +1,4 @@
+interface:
+  display_name: "NAH Audit"
+  short_description: "Audit, map, and safely edit NAH manuscript claims"
+  default_prompt: "Use the built-in Audit, Edit, Claim, Map, and Re-audit routing. Map rereads the selected source, runs Claim first if the ledger needs updating, and regenerates the color-coded all-claims network from explicitly registered relationships. Edit proposes exactly one smallest sufficient correction at a time, waits for approval, applies only approved changes, validates, and continues. Keep the complete mathematical assessment separate from the physics-facing action list."
