@@ -1,4 +1,4 @@
-# Class S non-Abelian Hodge audit companion
+# Non-Abelian Hodge audit companion
 
 Author: Amineh Mohseni
 
@@ -23,6 +23,13 @@ used as sources.
   is a navigation aid, not mathematical evidence.
 - **Approval for each repair.** `Edit` presents one smallest sufficient
   correction at a time and applies it only after human approval.
+
+## Claim map
+
+[![Manuscript claim map](project/reports/CLAIM_NETWORK.svg)](project/reports/CLAIM_NETWORK.svg)
+
+Registered manuscript claims, their audit status, and recorded
+relationships.
 
 ## Use
 
