@@ -17,12 +17,12 @@ used as sources.
   style. Simplifying the presentation does not weaken the mathematical
   assessment; harmless convention differences and optional formal refinements
   remain internal.
-- **Complete claim map.** Every registered claim appears with its type,
-  status, audit date, and audited source. Solid arrows record manuscript-explicit
-  or author-confirmed relationships; dashed arrows remain AI-proposed. The map
-  is a navigation aid, not mathematical evidence.
-- **Approval for each repair.** `Edit` presents one smallest sufficient
-  correction at a time and applies it only after human approval.
+- **Claim map.** Each registered claim appears as a node showing its type, audit status,
+  audit date, and audited source. Solid arrows show relationships stated in the
+  manuscript or confirmed by the authors; dashed arrows show AI-inferred relationships.
+  The map is a navigation aid, not mathematical evidence.
+- **Approval for each correction.** `Edit` explains and displays one minimal
+  correction at a time, applying it only after explicit author approval.
 
 ## Claim map
 
@@ -75,5 +75,5 @@ The source papers, authors, and versions are listed in
 
 The companion produces dated audit reports and a visual claim map. 
 Reports include the full mathematical assessment, concise physics-facing findings, 
-and a record of the checks performed. The manuscript can also be compiled into a PDF.
+and a record of the checks performed.
 
