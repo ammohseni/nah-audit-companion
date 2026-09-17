@@ -7,14 +7,14 @@ Hodge (NAH) theory in the accompanying draft against the mathematics papers
 used as sources.
 
 - **Permanent checkpoints.** Definitions and results are recorded from primary
-  PDFs with exact references, full hypotheses, conclusions, conventions,
+  mathematical sources with exact references, full hypotheses, conclusions, conventions,
   dependencies, and limitations. Audits reuse these checkpoints across draft
   revisions; substantive checkpoint updates are dated and explained.
 - **Mathematical completeness and physics-facing reporting.** The full
   mathematical assessment checks hypotheses, conventions, applicability, and
   implications. A separate physics-facing action list gives only material
   corrections, preserving the manuscript's physical motivation, notation, and
-  style. Simplifying the presentation never weakens the mathematical
+  style. Simplifying the presentation does not weaken the mathematical
   assessment; harmless convention differences and optional formal refinements
   remain internal.
 - **Complete claim map.** Every registered claim appears with its type,
