@@ -17,10 +17,10 @@ used as sources.
   style. Simplifying the presentation does not weaken the mathematical
   assessment; harmless convention differences and optional formal refinements
   remain internal.
-- **Claim map.** Each registered claim appears as a node showing its type, audit status,
+- **Claim map.** The map provides a navigation aid through the manuscript’s registered
+  claims. Each registered claim appears as a node showing its type, audit status,
   audit date, and audited source. Solid arrows show relationships stated in the
   manuscript or confirmed by the authors; dashed arrows show AI-inferred relationships.
-  The map is a navigation aid, not mathematical evidence.
 - **Approval for each correction.** `Edit` explains and displays one minimal
   correction at a time, applying it only after explicit author approval.
 
@@ -78,3 +78,9 @@ Reports include the full mathematical assessment, concise physics-facing
 findings, and a record of the checks performed.
 
 [Latest included audit — 15 September 2026](project/audits/NAH_main_tex_reaudit_2026-09-15.md).
+
+## Development history
+
+- **July 2026:** Development of the companion and construction of mathematical checkpoints from primary sources ([source records](project/papers/nah/SOURCE_MANIFEST.md), [checkpoint workflow](project/knowledge/nah/provenance/CHECKPOINT_BUILD_RECORD.md)).
+- **August 2026:** Continued [checkpoint development](project/knowledge/nah/sources/MOC04.md) and [audit-policy refinement](project/knowledge/nah/sources/DEL70.md).
+- **15 September 2026:** Initial GitHub upload of the completed version of the companion.
