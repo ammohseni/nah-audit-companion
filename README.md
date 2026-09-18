@@ -6,17 +6,20 @@ This companion uses AI to check mathematical claims involving non-Abelian
 Hodge (NAH) theory in an imported manuscript against the mathematics papers
 used as sources.
 
-- **Permanent checkpoints.** Definitions and results are recorded from primary
-  mathematical sources with exact references, full hypotheses, conclusions, conventions,
-  dependencies, and limitations. Audits reuse these checkpoints across draft
-  revisions; substantive checkpoint updates are dated and explained.
+- **Permanent checkpoints.** The companion records relevant definitions,
+  theorems, propositions, lemmas, and corollaries from primary mathematical
+  sources as reusable checkpoints, with precise references, full hypotheses,
+  conclusions, conventions, dependencies, and limitations. Audits reuse these
+  checkpoints across manuscript revisions; substantive updates are dated
+  and explained.
 - **Mathematical completeness and physics-facing reporting.** The full
-  mathematical assessment checks hypotheses, conventions, applicability, and
-  implications. A separate physics-facing action list gives only material
-  corrections, preserving the manuscript's physical motivation, notation, and
-  style. Simplifying the presentation does not weaken the mathematical
-  assessment; harmless convention differences and optional formal refinements
-  remain internal.
+  mathematical assessment checks manuscript claims against the relevant
+  checkpoints, examining hypotheses, conventions, applicability, and
+  implications. A separate physics-facing action list reports only material
+  corrections, preserving the manuscript's physical motivation, notation,
+  and style. Simplifying the reporting does not weaken the mathematical
+  assessment; harmless convention differences and optional formal
+  refinements remain documented internally.
 - **Claim map.** The map provides a navigation aid through the manuscript’s registered
   claims. Each registered claim appears as a node showing its type, audit status,
   audit date, and audited source. Solid arrows show relationships stated in the
@@ -28,8 +31,6 @@ used as sources.
 
 [![Manuscript claim map](project/reports/CLAIM_NETWORK.svg)](project/reports/CLAIM_NETWORK.svg)
 
-Registered manuscript claims, their audit status, and recorded
-relationships.
 
 ## Use
 
