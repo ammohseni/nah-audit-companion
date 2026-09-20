@@ -20,10 +20,11 @@ used as sources.
   and style. Simplifying the reporting does not weaken the mathematical
   assessment; harmless convention differences and optional formal
   refinements remain documented internally.
-- **Claim map.** The map provides a navigation aid through the manuscript’s registered
-  claims. Each registered claim appears as a node showing its type, audit status,
-  audit date, and audited source. Solid arrows show relationships stated in the
-  manuscript or confirmed by the authors; dashed arrows show AI-inferred relationships.
+- **Claim map.** The claim map provides a navigation aid through the manuscript’s
+  registered claims and their explicitly recorded relationships. Each registered
+  claim appears as a node showing its type, audit status, audit date, and audited
+  source. Solid arrows show relationships stated in the manuscript or confirmed by
+  the authors; dashed arrows show AI-inferred relationships.
 - **Approval for each correction.** `Edit` explains and displays one minimal
   correction at a time, applying it only after explicit author approval.
 
