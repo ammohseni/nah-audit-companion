@@ -29,10 +29,14 @@ used as sources.
   correction at a time, applying it only after explicit author approval.
 
 ## Claim map
+The claim map is derived from the latest manuscript and serves only as an
+auditing interface, supporting checks against [mathematical checkpoints](project/knowledge/nah/THEOREM_LEDGER.md)
+drawn from primary sources. 
 
 [![Manuscript claim map](project/reports/CLAIM_NETWORK.svg)](project/reports/CLAIM_NETWORK.svg)
 
-
+Dashed arrows show connections inferred by AI
+between claims already present in the manuscript; they do not indicate AI generated content.
 ## Use
 
 Send the commands below as messages to the assistant, not at the shell prompt.
